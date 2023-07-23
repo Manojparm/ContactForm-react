@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    max-width:1288px;
+    margin:0 auto;
+}
+
+.main_container{
+    display:flex;
+    height: calc(100vh-72px);
+    flex-direction: column;
+    justify-content: end;
+}
